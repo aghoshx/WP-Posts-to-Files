@@ -1,0 +1,23 @@
+# WordPress export directories
+# Uncomment the line below if you want to exclude exported content from git
+# */
+
+# Exclude OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Exclude editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Exclude PHP error logs
+error_log
+php_error.log
+
+# Exclude temporary files
+*.tmp
+*.temp
