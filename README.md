@@ -2,8 +2,6 @@
 
 A powerful tool to export WordPress posts and pages to standalone HTML or TXT files, allowing content to be preserved and viewed without requiring a WordPress installation.
 
-![WordPress to HTML/TXT Converter](https://via.placeholder.com/800x400.png?text=WordPress+Content+Archiver)
-
 ## 🚀 Purpose
 
 This tool solves a common problem when sunsetting WordPress websites: preserving content in an accessible format. When migrating from WordPress or shutting down blogs, this script creates a static archive of all your posts and pages that can be:
@@ -139,7 +137,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📧 Contact
 
-Questions? Suggestions? Reach out to us at your-email@example.com
+Questions? Suggestions? Reach out to us at aghoshx@gmail.com
 
 ---
 
